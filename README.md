@@ -1,5 +1,5 @@
 # NPM VS YARN
-` OR `
+### *OR*
 # NPM Equivalent of Yarn Commands
 
 | NPM | YARN |

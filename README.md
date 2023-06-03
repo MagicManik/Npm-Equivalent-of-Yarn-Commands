@@ -6,7 +6,7 @@
 |-----------------|-----------------|
 | npm init | yarn init |
 | npm init -y | yarn init -y |
-| npm i | yarn i |
+| npm i | yarn |
 | npm i yourPackageName | yarn add yourPackageName |
 | npm uninstall yourPackageName | yarn remove yourPackageName |
 | npm run build | yarn build |
